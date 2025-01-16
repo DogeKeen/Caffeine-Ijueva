@@ -1,4 +1,4 @@
-﻿# Caffeine-Ijueva
+﻿# Caffeine Ijueva
 You **NEED** this specific Java version to play!<br>
 Adoptium's Java 21 JDK<br>
 Get it at https://adoptium.net/temurin/releases/
